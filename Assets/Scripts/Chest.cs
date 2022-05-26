@@ -12,9 +12,8 @@ public class Chest : Collectable
         if (!collected)
         {
             collected = true;
-            Debug.Log("Grant money");
             GetComponent<SpriteRenderer>().sprite = emptyChest;
-            Debug.Log("Grant " + moneyAmount + " money");
+            GameManager.instance.ShowText("+" + moneyAmount + " gold!", 25, Color.yellow, transform.position, Vector3.up * 50, 1.0f);
         }
 
     }

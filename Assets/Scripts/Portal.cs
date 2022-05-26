@@ -10,6 +10,7 @@ public class Portal : Collidable
 
     protected override void OnCollide(Collider2D coll)
     {
+
         if (coll.name == "player")
         {
             GameManager.instance.SaveState();
