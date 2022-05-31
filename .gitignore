@@ -5,14 +5,14 @@
 !.vscode/extensions.json
 .history/*
 
-Library/*
+Library/
 
-Logs/*
+Logs/
 
-obj/*
+obj/
 
-Packages/*
+Packages/
 
-ProjectSettings/*
+ProjectSettings/
 
-UserSettings/*
+UserSettings/
