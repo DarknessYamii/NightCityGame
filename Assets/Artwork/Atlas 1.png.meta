@@ -105,6 +105,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -760,6 +761,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      crate_0_1: -7450669156800766785
+      bigfloor_1: 745968338076216934
+      bigfloor_7: -8369517905372312421
+      bigfloor_6: 7182614658172301277
+      stairs_0: -1347233719151212251
+      wall_0: -6721728136321296765
+      crate_1_0: 1726203059708922746
+      stairs_1: 7870480730772048316
+      bigfloor_2: -2834699621007424056
+      chest_02: -7108974821668894762
+      chest_0: -3583700648726284267
+      chest_01: 903345298867312159
+      bigfloor_4: 3823991837180300354
+      bigfloor_0: -9106852675655700425
+      Player_1: -4869357254534750094
+      collision_0: -407774699277236136
+      Player_0: 4018074224661003100
+      floor_1: 5327950094024008212
+      bigfloor_8: 6615319868462110837
+      bigfloor_9: 3628468241054914511
+      bigfloor_5: -1291705123832498677
+      bigfloor_10: -3513202607186615407
+      crate_0: -5599750456436461424
+      crate_1: -4272707242783423304
+      bigfloor_11: -9198928466637730507
+      bigfloor_3: -2217874986795218178
+      floor_0: -7826287199498012479
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
