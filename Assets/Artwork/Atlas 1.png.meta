@@ -739,7 +739,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -747,6 +747,69 @@ TextureImporter:
       bones: []
       spriteID: 6d7ca3d8019d75d90800000000000000
       internalID: -7108974821668894762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd80105338da9b4eb8128c1468814e5
+      internalID: -1182768424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa595e875bc324ebe5b43b1f9cdd52
+      internalID: -1043932747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b9f976ddb15e429a6759a617d68cb
+      internalID: -2010237720
       vertices: []
       indices: 
       edges: []
@@ -773,6 +836,7 @@ TextureImporter:
       bigfloor_2: -2834699621007424056
       chest_02: -7108974821668894762
       chest_0: -3583700648726284267
+      fountain_3: -2010237720
       chest_01: 903345298867312159
       bigfloor_4: 3823991837180300354
       bigfloor_0: -9106852675655700425
@@ -780,9 +844,11 @@ TextureImporter:
       collision_0: -407774699277236136
       Player_0: 4018074224661003100
       floor_1: 5327950094024008212
+      fountain_0: -1182768424
       bigfloor_8: 6615319868462110837
       bigfloor_9: 3628468241054914511
       bigfloor_5: -1291705123832498677
+      fountain_1: -1043932747
       bigfloor_10: -3513202607186615407
       crate_0: -5599750456436461424
       crate_1: -4272707242783423304

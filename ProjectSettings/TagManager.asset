@@ -45,9 +45,6 @@ TagManager:
   - name: Floor
     uniqueID: 80101219
     locked: 0
-  - name: Actor
-    uniqueID: 3064000975
-    locked: 0
   - name: Collision
     uniqueID: 733759353
     locked: 0
@@ -56,4 +53,7 @@ TagManager:
     locked: 0
   - name: Weapon
     uniqueID: 3768999019
+    locked: 0
+  - name: Actor
+    uniqueID: 3064000975
     locked: 0

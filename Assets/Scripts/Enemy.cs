@@ -10,7 +10,7 @@ public class Enemy : Mover
     // Logic
     public float triggerLenght = 1;
     public float chaseLenght = 5;
-    private bool chasing;
+    public bool chasing;
     private bool collidingWithPlayer;
     private Transform playerTransform;
     private Vector3 startingPosition;
